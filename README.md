@@ -1,9 +1,9 @@
 # Data Cleaning with SQL Queries Portfolio Project
 
-# Description
+## Description
 This portfolio project demonstrates data cleaning techniques using SQL queries applied to the Nashville Housing dataset. The project focuses on standardizing date formats, populating missing property addresses, breaking down address columns into individual components, standardizing categorical values, and removing duplicate records and unused columns.
 
-# Skills Utilized
+## Skills Utilized
 
 Standardizing Date Formats
 
@@ -39,7 +39,7 @@ Identify and remove duplicate records based on specific criteria using Common Ta
 **Deleting Unused Columns:**
 Remove unused columns from the dataset to streamline data storage and improve query performance.
 
-# Instructions
+## Instructions
 
 To explore the SQL portfolio project:
 
@@ -49,8 +49,8 @@ Review the output to ensure that data cleaning tasks have been performed accurat
 
 Customize the queries or add additional cleaning steps as per specific data cleaning requirements.
 
-# Data Sources
+## Data Sources
 NashvilleHousing Housing Data for Data Cleaning.
 
-# Note
+## Note
 This portfolio project serves as a demonstration of SQL data cleaning techniques applied to real-world datasets and can be extended or customized for cleaning various types of datasets with similar cleaning requirements.
